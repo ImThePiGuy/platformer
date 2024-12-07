@@ -1,0 +1,4 @@
+1.Read Inputs
+2.Update Coords of moveable objects
+3.Run collision dection
+4.Display
