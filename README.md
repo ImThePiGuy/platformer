@@ -12,6 +12,8 @@ December 6,
 December 13,
  Im still trying new things Im now thinking about everything running together so imma reprogram it so the input reading,
  collision detection and updating position all happen before restarting the loop time for v4
- Also im going to make a function to make the display coords into real coords
+ Also im going to make a function to make the display coords into real coords now that im thinking I will
+ initiate the x and y with the transformation of cordinates
+ 
  
   
