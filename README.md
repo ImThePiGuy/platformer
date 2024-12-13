@@ -8,4 +8,8 @@ good at programming but I always like things hard so I can learn about usefull t
 
 December 6,
   Im working on jumping the code doesnt work right now because I got fustrated and it got late I will fix it
+
+December 13,
+ Im still trying new things Im now thinking about everything running together so imma reprogram it so the input reading,
+ collision detection and updating position all happen before restarting the loop time for v4
   
